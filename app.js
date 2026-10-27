@@ -25,7 +25,7 @@ if (isProd) {
 
 // Allowed frontend URLs
 const allowedOrigins = [
-  "https://club-frontend-zgmp.vercel.app",
+  "https://club-frontend-2ist.vercel.app",
   "http://localhost:5173",
   "http://localhost:5174",
 ];
